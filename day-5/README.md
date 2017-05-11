@@ -1,5 +1,5 @@
 Friday schedule:
-
+```
  9:00 am - 10:15 am : SciPy
 
 10:15 am - 10:30 am : break
@@ -13,4 +13,5 @@ Friday schedule:
  2:45 pm -  3:15 pm : break
 
  3:15 pm -  5:00 pm : putting it all together exercises
+```
 

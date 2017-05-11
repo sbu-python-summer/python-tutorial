@@ -1,5 +1,5 @@
 Wednesday schedule:
-
+```
  9:00 am - 10:15 am : NumPy part I
 
 10:15 am - 10:30 am : break
@@ -13,4 +13,5 @@ Wednesday schedule:
  3:30 pm -  3:45 pm : break
 
  3:45 pm -  5:00 pm : exercises II
+```
 

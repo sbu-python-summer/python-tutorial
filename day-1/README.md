@@ -1,5 +1,5 @@
 Monday schedule:
-
+```
 10:00 am - 11:15 am : Introduction to Jupyter and Python Data Types
 
 11:15 am - 11:30 am : break
@@ -13,4 +13,4 @@ Monday schedule:
  2:45 pm -  3:00 pm : break
 
  3:00 pm -  5:00 pm : exercises II
-
+```
