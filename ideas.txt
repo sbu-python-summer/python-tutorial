@@ -1,0 +1,7 @@
+-- cap first letter of each word
+
+-- convert string to float
+
+-- string join()
+
+-- print formatting
