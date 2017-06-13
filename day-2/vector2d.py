@@ -37,13 +37,13 @@ class Vector(object):
             print("we don't know how to multiply two Vectors")
             raise NotImplementedError
 
-    def __matmul__(self, other):
-        # a dot product
-        if isinstance(other, Vector):
-            return self.x*other.x + self.y*other.y
-        else:
-            print("matrix multiplication not defined")
-            raise NotImplementedError
+    # def __matmul__(self, other):
+    #     # a dot product
+    #     if isinstance(other, Vector):
+    #         return self.x*other.x + self.y*other.y
+    #     else:
+    #         print("matrix multiplication not defined")
+    #         raise NotImplementedError
 
     def __rmul__(self, other):
         return self.__mul__(other)
@@ -83,7 +83,7 @@ if __name__ == "__main__":
     print("{} / {} = {}".format(u, 5.0, u/5.0))
     print(" ")
 
-    print("dot product: {} @ {} = {}".format(u, v, u@v))
+    #print("dot product: {} @ {} = {}".format(u, v, u@v))
     print("cross product magnitude: {} x {} = {}".format(u, v, u.cross(v)))
     print(" ")
 
